@@ -7,10 +7,6 @@ The Minecraft Hypixel Bedwars Stats Overlay is a tool designed to enhance your g
 * Automatically add and remove players as they join your lobby, leave, or get final killed.
 * Support for multiple clients: Vanilla/Forge, Badlion, and Lunar Minecraft clients.
 
-## Easy-Run Method for Windows Users
-For Windows users, running the provided overlay.exe file eliminates the need to install Python and its libraries. However, you will still require a [Hypixel API key](https://developer.hypixel.net/). Once obtained, you must enter this key into your .env file in the format: `HYPIXEL_API_KEY=YOUR_API_KEY_HERE`
-
-
 ## Prerequisites
 *  Python 3.x installed on your system
 * Required Python libraries. Install them using the command: `python -m pip install requests Pillow python-dotenv`
