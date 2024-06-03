@@ -20,4 +20,8 @@ The Minecraft Hypixel Bedwars Stats Overlay is a tool designed to enhance your g
 * Select your Minecraft client (Vanilla/Forge, Badlion, Lunar)
 * When in a bedwars lobby, type `/who` in-game to load all users not in overlay
 
+## Images
+![image](https://github.com/d-loree/minecraft-bedwars-overlay/assets/72565476/b8ec04ae-0168-45f8-9575-1559ae1867d3)
+
+
 
