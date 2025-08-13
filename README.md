@@ -2,6 +2,9 @@
 
 The Minecraft Hypixel Bedwars Stats Overlay is a tool designed to enhance your gameplay by providing real-time statistics for all players in your lobby. This tool fetches player statistics including Level, Final Kill Death Ratio (FKDR), Winstreak, and Win Loss Ratio (WLR), using Minecraft's log files, the Mojang API, and the Hypixel API.
 
+## ⚠️ Pre-game stats no longer working
+Hypixel Bedwars made an update that obstructs usernames pre-game to stop people from using overlays before a game has started.
+
 ## Features
 * Access statistics for each player in your lobby to access your competition.
 * Automatically add and remove players as they join your lobby, leave, or get final killed.
